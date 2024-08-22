@@ -1,1 +1,1 @@
-![Drone Assembly Project](Aerospace_Mechanical_Eng_Projects/NX_Designs/PROJECT19_DRONE_DESIGN/Drone.png)
+![Drone Assembly Project](Projects/Aerospace_Mechanical_Eng_Projects/NX_Designs/PROJECT19_DRONE_DESIGN/Drone.png)
