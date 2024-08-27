@@ -10,4 +10,4 @@
 *Figure 3: Olique Shock results at Mach = 3 inlet/outlet*
 
 ![Results at Mach = 4](https://github.com/hugovr24/Projects/blob/master/Aerospace_Mechanical_Eng_Projects/CDF/2_Oblique_Shock_2D/Mach_4.png)
-*Figure 1: Olique Shock results at Mach = 4*
+*Figure 4: Olique Shock results at Mach = 4*
