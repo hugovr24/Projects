@@ -1,4 +1,4 @@
-### Drone Assembly Project
+### Mechanical Bird Assembly Project
 
 ![MEchanic Bird Assembly Project](https://github.com/hugovr24/Projects/blob/master/Aerospace_Mechanical_Eng_Projects/NX_Designs/PROJECT20_MECHANICAL_BIRD_DESIGN/mech_bird_assy.png)
 
