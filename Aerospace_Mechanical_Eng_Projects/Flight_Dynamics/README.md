@@ -9,5 +9,7 @@
 
 *Figure 2: Time varying simulation of the aircraft, elevation angle results and rudder doublet simulation results
 
+![](https://github.com/hugovr24/Projects/blob/master/Aerospace_Mechanical_Eng_Projects/Flight_Dynamics/Complete_model/non_optimized_flight_data.jpg)
+![](https://github.com/hugovr24/Projects/blob/master/Aerospace_Mechanical_Eng_Projects/Flight_Dynamics/Complete_model/optimized_flight_data.jpg)
 
 *Figure 3: Nonoptimized data vs optimized flight data thorugh flgiht test matching*
