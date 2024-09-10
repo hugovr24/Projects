@@ -6,6 +6,7 @@
 
 ![](https://github.com/hugovr24/Projects/blob/master/Aerospace_Mechanical_Eng_Projects/Flight_Dynamics/Complete_model/Elevetor%20Simulation.jpg)
 ![](https://github.com/hugovr24/Projects/blob/master/Aerospace_Mechanical_Eng_Projects/Flight_Dynamics/Complete_model/Rudder_Doublet_Simulation.jpg)
+
 *Figure 2: Time varying simulation of the aircraft, elevation angle results and rudder doublet simulation results
 
 
