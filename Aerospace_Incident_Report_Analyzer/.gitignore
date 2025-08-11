@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Envs
+.venv/
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+outputs/
+
+# Optional: ignore local data dumps if you do not want them in git
+# data/
+# converted_csvs/
